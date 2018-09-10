@@ -1,6 +1,6 @@
 ![alt_text][logo]
 
-# Perception in Functional Motor Disorders: A public repository
+# Perception in Functional Motor Disorders: *public repository*
 
 ###### Julian Matthews*, Kanae Nagao*, Catherine Ding, Rachel Newby, Peter Kempster, Jakob Hohwy
 
@@ -30,16 +30,16 @@ In the interests of open science, we provide the code and de-identified data fro
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [Psychtoolbox](http://psychtoolbox.org/)
 
-## Recommended tools:
+### Recommended tools:
 * [R](https://www.r-project.org/)
 * [JASP](https://jasp-stats.org/)
 
 ## Getting started:
 [`runExp.m`](./fmd-perceptual-study/scripts/experiment/) is the critical file for running the experiment.
 
-![alt_text][avatar]
-
 ***
+
+![alt_text][avatar]
 
 ###### J. Matthews and K. Nagao contributed equally to this work
 
