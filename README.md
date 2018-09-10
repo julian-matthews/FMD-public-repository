@@ -27,12 +27,16 @@ We employed an extended version of the dual-task:
 In the interests of open science, we provide the code and de-identified data from our perceptual study of functional and organic motor disorders. The supplied code includes critical scripts (written for MATLAB, R, and JASP) that can be used to run and analyse our experiment. I have endeavoured to provide extensive comments in this code so it is accessible to others. De-identified data includes the entire collection of behavioural responses (43,200 trials in total) from our participants along with preprocessed summary statistics used for behavioural and perceptual analysis. I have tried to use common language to describe this data but [please contact me](mailto:julian.r.matthews@gmail.com?subject=FMD%20study%20enquiry) if you have questions.
 
 ## You will need:
-* [MATLAB](https://www.mathworks.com/products/matlab.html)
-* [Psychtoolbox](http://psychtoolbox.org/)
-
-### Recommended tools:
-* [R](https://www.r-project.org/)
-* [JASP](https://jasp-stats.org/)
+* You will need:
+ 
+ [MATLAB](https://www.mathworks.com/products/matlab.html)
+ 
+ [Psychtoolbox](http://psychtoolbox.org/)
+* We recommend:
+ 
+ [R](https://www.r-project.org/)
+ 
+ [JASP](https://jasp-stats.org/)
 
 ## Getting started:
 [`runExp.m`](./fmd-perceptual-study/scripts/experiment/) is the critical file for running the experiment.
