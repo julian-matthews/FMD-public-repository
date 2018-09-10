@@ -4,10 +4,10 @@
 Functional dystonia is the most diagnostically challenging of the functional motor disorders (FMDs), stubbornly resistent to criteria that emphasise psychiatric symptoms. However, novel frameworks from cognitive neuroscience show promise. Drawing on writing by [Edwards et al. (2012)](https://www.ncbi.nlm.nih.gov/pubmed/22641838); [Stenner & Haggard (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27719833); and [Newby, Alty, & Kempster (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27753149) that speaks to FMDs by drawing on the [*predictive processing* framework of brain function](https://global.oup.com/academic/product/the-predictive-mind-9780199682737?cc=au&lang=en&), this project employs a [contemporary extension](http://rstb.royalsocietypublishing.org/content/373/1755/20170352) of a [psychophysical dual-task paradigm](https://www.ncbi.nlm.nih.gov/pubmed/25973773) to examine the relationship between perceptual and active inference in motor disordered patient groups. 
 
 In particular, we were interested in four domains implicated in the *predictive processing* account:
-1. [Attention]("Precision optimisation under the predictive processing account")
-2. [Expectations]("Predictive beliefs under the predictive processing account")
-3. [Sensation]("Here, perceptual contrast sensitivity")
-4. [Metacognition]("Introspective access to behavioural accuracy")
+1. ![Attention]("Precision optimisation under the predictive processing account")
+2. ![Expectations]("Predictive beliefs under the predictive processing account")
+3. ![Sensation]("Here, perceptual contrast sensitivity")
+4. ![Metacognition]("Introspective access to behavioural accuracy")
 
 Our study found evidence that perceptual sensitivity (i.e., *sensation*) is a domain of interest in motor disorders despite their ostensibly movement-oriented symptoms. Beyond this, our study is important because it applies cutting-edge psychophysics to examine these domains in a single paradigm and contrasts matched-controls with functional and organic patient groups within the same experiment.
 
