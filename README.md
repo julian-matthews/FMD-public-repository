@@ -7,7 +7,7 @@
 ***
 
 ## What is this?
-In the interests of open science, we provide the code and de-identified data from our perceptual study of functional and organic motor disorders. The supplied code includes critical scripts (written for MATLAB, R, and JASP) that can be used to run and analyse our experiment. I have endeavoured to provide extensive comments in this code so it is accessible to others. De-identified data includes the entire collection of behavioural responses (43,200 trials in total) from our participants along with preprocessed summary statistics used for behavioural and perceptual analysis. I have tried to use common language to describe this data but [please contact me](mailto:julian.r.matthews@gmail.com?subject=FMD%20study%20enquiry) if you have questions.
+In the interests of open science, we provide the code and [de-identified data](./fmd-perceptual-study/data/) from our perceptual study of functional and organic motor disorders. The supplied code includes critical scripts (written for MATLAB, R, and JASP) that can be used to run and analyse our experiment. I have endeavoured to provide extensive comments in this code so it is accessible to others. De-identified data includes the entire collection of behavioural responses (43,200 trials in total) from our participants along with preprocessed summary statistics used for behavioural and perceptual analysis. I have tried to use common language to describe this data but [please contact me](mailto:julian.r.matthews@gmail.com?subject=FMD%20study%20enquiry) if you have questions.
 
 ## Background
 Functional dystonia is the most diagnostically challenging of the functional motor disorders (FMDs), stubbornly resistent to criteria that emphasise psychiatric symptoms. However, novel frameworks from cognitive neuroscience show promise. Drawing on writing by [Edwards et al. (2012)](https://www.ncbi.nlm.nih.gov/pubmed/22641838); [Stenner & Haggard (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27719833); and [Newby, Alty, & Kempster (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27753149) that speaks to FMDs by drawing on the [*predictive processing* framework of brain function](https://global.oup.com/academic/product/the-predictive-mind-9780199682737?cc=au&lang=en&), this project employs a [contemporary extension](http://rstb.royalsocietypublishing.org/content/373/1755/20170352) of a [psychophysical dual-task paradigm](https://www.ncbi.nlm.nih.gov/pubmed/25973773) to examine the relationship between perceptual and active inference in motor disordered patient groups. 
@@ -40,6 +40,7 @@ Recommended:
 
 ## Getting started
 [`runExp.m`](./fmd-perceptual-study/scripts/experiment/) is the critical file for running the experiment.
+
 [`raw data`](./fmd-perceptual-study/data/) is available here.
 
 ***
