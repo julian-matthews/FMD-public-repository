@@ -35,5 +35,5 @@ In the interests of open science, we provide the code and de-identified data fro
 ![alt_text][avatar]
 
 [logo]: https://cogphillab.files.wordpress.com/2018/08/header1.jpg "Cognition and Philosophy Lab"
-[methods]: https://github.com/julian-matthews/fmd-public-repository/fmd-perceptual-study/figures/figure1.png
+[methods]: https://github.com/julian-matthews/fmd-public-repository/blob/master/fmd-perceptual-study/figures/figure1.png
 [avatar]: https://avatars0.githubusercontent.com/u/18410581?v=3&s=96 "Julian Matthews"
