@@ -11,6 +11,13 @@ In particular, we were interested in four domains implicated in the *predictive 
 
 Our study found evidence that perceptual sensitivity (i.e., *sensation*) is a domain of interest in motor disorders despite their ostensibly movement-oriented symptoms. Beyond this, our study is important because it applies cutting-edge psychophysics to examine these domains in a single paradigm and contrasts matched-controls with functional and organic patient groups within the same experiment.
 
+## Task design
+We employed an extended version of the dual-task:
+
+![alt_text][methods]
+
+> Method for letter and gabor task including 8AFC response to Gabor presence (named *grill* in the experiment to aid description for subjects). To manipulate attention, participants performed the Gabor Task alone (Full Attention condition) or in conjunction with a Letter Task (Diverted Attention condition). To manipulate expectations the presence of the peripheral gabor was altered between blocks (25%, 50%, and 75% likelihood). Subjects were instructed before each block of trials and after each trial about the probability of gabor presence. **δt** is stimulus-onset asynchrony (SOA), equivalent to the time between presentation of the letter stimulus and mask. In order to standardise the difficulty of the Letter Task, SOA timing was adjusted psychometrically for each participant during training to maintain 79.4% performance when conducted alone (see QUEST staircasing).
+
 ## What is this?
 In the interests of open science, we provide the code and de-identified data from our perceptual study of functional and organic motor disorders. The supplied code includes critical scripts (written for MATLAB, R, and JASP) that can be used to run and analyse our experiment. I have endeavoured to provide extensive comments in this code so it is accessible to others. De-identified data includes the entire collection of behavioural responses (43,200 trials in total) from our participants along with preprocessed summary statistics used for behavioural and perceptual analysis. I have tried to use common language to describe this data but [please contact me](mailto:julian.r.matthews@gmail.com?subject=FMD%20study%20enquiry) if you have questions.
 
@@ -28,4 +35,5 @@ In the interests of open science, we provide the code and de-identified data fro
 ![alt_text][avatar]
 
 [logo]: https://cogphillab.files.wordpress.com/2018/08/header1.jpg "Cognition and Philosophy Lab"
+[methods]: https://github.com/julian-matthews/fmd-public-repository/fmd-perceptual-study/figures/figure1.png
 [avatar]: https://avatars0.githubusercontent.com/u/18410581?v=3&s=96 "Julian Matthews"
