@@ -41,7 +41,7 @@ In the interests of open science, we provide the code and de-identified data fro
 
 ***
 
-###### J Matthews & K Nagao contributed equally to this work
+###### J. Matthews and K. Nagao contributed equally to this work
 
 [logo]: https://cogphillab.files.wordpress.com/2018/08/header1.jpg "Cognition and Philosophy Lab"
 [methods]: https://github.com/julian-matthews/fmd-public-repository/blob/master/fmd-perceptual-study/figures/figure1.png
