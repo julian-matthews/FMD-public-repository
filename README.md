@@ -40,6 +40,7 @@ Recommended:
 
 ## Getting started
 [`runExp.m`](./fmd-perceptual-study/scripts/experiment/) is the critical file for running the experiment.
+[`raw data`](./fmd-perceptual-study/data/) is available here.
 
 ***
 
