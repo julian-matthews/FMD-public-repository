@@ -2,7 +2,7 @@
 
 # Perception in Functional Motor Disorders: A public repository
 
-[Julian Matthews][1], [Kanae Nagao][1], Catherine Ding, Rachel Newby, Peter Kempster, Jakob Hohwy
+######Julian Matthews*, Kanae Nagao*, Catherine Ding, Rachel Newby, Peter Kempster, Jakob Hohwy
 
 Functional dystonia is the most diagnostically challenging of the functional motor disorders (FMDs), stubbornly resistent to criteria that emphasise psychiatric symptoms. However, novel frameworks from cognitive neuroscience show promise. Drawing on writing by [Edwards et al. (2012)](https://www.ncbi.nlm.nih.gov/pubmed/22641838); [Stenner & Haggard (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27719833); and [Newby, Alty, & Kempster (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27753149) that speaks to FMDs by drawing on the [*predictive processing* framework of brain function](https://global.oup.com/academic/product/the-predictive-mind-9780199682737?cc=au&lang=en&), this project employs a [contemporary extension](http://rstb.royalsocietypublishing.org/content/373/1755/20170352) of a [psychophysical dual-task paradigm](https://www.ncbi.nlm.nih.gov/pubmed/25973773) to examine the relationship between perceptual and active inference in motor disordered patient groups. 
 
@@ -35,7 +35,7 @@ In the interests of open science, we provide the code and de-identified data fro
 ## Getting started:
 [`runExp.m`](./fmd-perceptual-study/scripts/experiment/) is the critical file for running the experiment.
 
-[1]: Contributed equally to this work
+*Contributed equally to this work
 
 ![alt_text][avatar]
 
