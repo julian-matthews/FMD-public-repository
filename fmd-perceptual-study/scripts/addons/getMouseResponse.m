@@ -1,5 +1,5 @@
 %Mouse response
-function [x,y,buttons] = getMouseResponse();
+function [x,y,buttons] = getMouseResponse()
 
 [x,y,buttons] = GetMouse;
 while any(buttons) % if already down, wait for release
