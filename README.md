@@ -6,6 +6,13 @@
 
 ***
 
+**The paper that implements this code/data has been published in Cortex under the title _Raised
+visual contrast thresholds with intact attention and metacognition in functional motor disorder._** [**It is available here: https://doi.org/10.1016/j.cortex.2019.12.009**](https://doi.org/10.1016/j.cortex.2019.12.009)
+
+The data associated with this work can also be found on Figshare together with an extensive description of all variables: https://figshare.com/articles/Perception_in_Functional_Motor_Disorders_all_behavioural_data/7545647
+
+***
+
 ## What is this?
 In the interests of open science, we provide the code and [de-identified data](./fmd-perceptual-study/data/) from our perceptual study of functional and organic motor disorders. The supplied code includes critical scripts (written for MATLAB, R, and JASP) that can be used to run and analyse our experiment. I have endeavoured to provide extensive comments in this code so it is accessible to others. De-identified data includes the entire collection of behavioural responses (43,200 trials in total) from our participants along with preprocessed summary statistics used for behavioural and perceptual analysis. I have tried to use common language to describe this data but [please contact me](mailto:julian.r.matthews@gmail.com?subject=FMD%20study%20enquiry) if you have questions.
 
